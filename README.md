@@ -69,15 +69,16 @@ Ensure you have the following installed:
 
 ---
 
-## 📸 **Project Images**
-### **1️⃣ RISC-V Architecture Diagram**
-![Computer Architecture](layout/architecture.png)
+## 📸 Project Images
 
-### **2️⃣ Floorplan & Layout**
-![Chip Layout](layout/layout.png)
+### 🔹 Waveform Simulation
+![Waveform](resources/Waveform.png)
 
-### **3️⃣ Simulation Waveforms**
-![Waveform Output](waveforms/waveform.png)
+### 🔹 Computer Architecture
+![Computer Architecture](resources/computer_architecture.png)
+
+### 🔹 Final Layout
+![Layout](resources/layout.png)
 
 ---
 
